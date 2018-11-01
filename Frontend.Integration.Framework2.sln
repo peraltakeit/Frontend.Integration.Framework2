@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frontend.Integration.Framework2", "Frontend.Integration.Framework2\Frontend.Integration.Framework2.csproj", "{BEF36C91-080B-47D2-B58B-E1226768799D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEF36C91-080B-47D2-B58B-E1226768799D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF36C91-080B-47D2-B58B-E1226768799D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF36C91-080B-47D2-B58B-E1226768799D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF36C91-080B-47D2-B58B-E1226768799D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {249D140A-3620-43A8-A357-6E4F7DAF1FE8}
+	EndGlobalSection
+EndGlobal
